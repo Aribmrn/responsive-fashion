@@ -1,0 +1,46 @@
+body{
+    background-color:#f8f9fa;
+}
+.half-width{
+    width: 38%;
+    float: left;
+    margin: 4%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+.banner-line{
+    color: #d63384;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+.text-banner{
+    color:#087990;
+}
+.third-banner{
+    color: #adb5bd;
+}
+.categories img{
+    width: 100px;
+    height: 100px;
+}
+.kids{
+    background-color: 	#D8BFD8;
+}
+.womens{
+    background-color: lightsalmon;
+}
+.mens{
+    background-color: 	#00BFFF;
+}
+.fashion-card{
+    border: 0;
+}
+.fashion-card-footer{
+    border: 0;
+    background-color: white;}
+.last{
+    border: 0;
+}    
